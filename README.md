@@ -6,5 +6,9 @@
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 
-📫 Contact: [Linkedin](https://www.linkedin.com/in/enes-karaosman-50b952105/) <br>
-Mail: eneskaraosman53@gmail.com
+[![GitHub Enes Karaosman](https://img.shields.io/github/followers/EnesKaraosman?label=follow&style=social)](https://github.com/EnesKaraosman)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-EnesKaraosman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enes-karaosman-50b952105/)](https://www.linkedin.com/in/enes-karaosman-50b952105/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/5645821/enes-karaosman)](https://stackoverflow.com/users/5645821/enes-karaosman)
+[![Gmail Badge](https://img.shields.io/badge/-enesKaraosman-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:eneskaraosman53@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-enesKaraosman-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@eneskaraosman53)](https://medium.com/@eneskaraosman53)
+<br>
